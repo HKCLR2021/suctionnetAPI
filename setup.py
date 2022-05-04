@@ -20,6 +20,6 @@ setup(
         'opencv-python',
         'trimesh',
         'suction_nms',
-        'pypcu'
+        'point_cloud_utils'
     ]
 )
